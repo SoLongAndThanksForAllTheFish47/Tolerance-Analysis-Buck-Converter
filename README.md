@@ -1,4 +1,4 @@
-# Tolerance-Analysis-Buck-Converter
+# Tolerance Analysis Buck Converter
 
 Copyright 2026 shersoli
 
