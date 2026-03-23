@@ -3,7 +3,7 @@
 Copyright 2026 shersoli
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![Python](https://github.com/shersoli/Worst-Case-Buck-Converter/actions/workflows/python-app.yml/badge.svg)
+![Python](https://github.com/shersoli/Tolerance-Analysis-Buck-Converter/actions/workflows/python-app.yml/badge.svg)
 
 This project is released under a MIT LICENSE
 
