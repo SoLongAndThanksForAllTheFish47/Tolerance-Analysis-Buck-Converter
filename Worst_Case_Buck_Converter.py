@@ -1,6 +1,8 @@
 import numpy as np
 import os
 
+
+
 def calculate_v_out(v_in, duty_cycle, efficiency=1.0):
     """Calculates the ideal output voltage of a buck converter."""
     # Simple linear model formula of a step-down converter
